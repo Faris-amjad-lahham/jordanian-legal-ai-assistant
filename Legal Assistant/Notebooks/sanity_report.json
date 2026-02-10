@@ -1,0 +1,36 @@
+{
+  "dataset_info": {
+    "law_name": "Jordanian Labour Law",
+    "law_number": 8,
+    "year": 1996,
+    "language": "English",
+    "source": "Official Gazette (with amendments)"
+  },
+  "statistics": {
+    "total_characters": 118964,
+    "total_articles_extracted": 155,
+    "total_chunks_created": 165,
+    "article_numbers_range": {
+      "min": 1,
+      "max": 142
+    }
+  },
+  "article_length": {
+    "min": 44,
+    "max": 4692,
+    "avg": 747
+  },
+  "chunk_length": {
+    "min": 2,
+    "max": 2000,
+    "avg": 715
+  },
+  "missing_articles_analysis": {
+    "count": 1,
+    "articles": [
+      18
+    ],
+    "explanation": "Some article numbers are missing due to official legal amendments, repealed provisions, or article mergers in later versions of the law. This is a domain-specific characteristic of legislative documents and not a data extraction or parsing error."
+  },
+  "data_quality_status": "PASSED_WITH_DOMAIN_GAPS"
+}

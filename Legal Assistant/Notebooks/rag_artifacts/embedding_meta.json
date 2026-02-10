@@ -1,0 +1,5 @@
+{
+  "model": "text-embedding-3-small",
+  "num_chunks": 165,
+  "dataset_fingerprint": "6d3b8096220e7ef3248a36ec7029ca2ae7115dd64b4d244b74cc7d9a87e23444"
+}

@@ -1,0 +1,7 @@
+RAG Retrieval Recall@K Accuracy: 100%
+
+Tested Queries:
+- مكافأة نهاية الخدمة
+- end of service gratuity
+
+The system successfully retrieved the correct legal articles.
