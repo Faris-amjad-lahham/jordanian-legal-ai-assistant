@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit secrets (never commit real secrets!)
+.streamlit/secrets.toml
+
+# Generated exports (Word documents)
+Legal Assistant/exports/
+
+# Embedding cache (regenerated automatically on first run)
+Legal Assistant/data/embeddings_*.npy
+Legal Assistant/data/embeddings_*_ids.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Notebooks
+.ipynb_checkpoints/
