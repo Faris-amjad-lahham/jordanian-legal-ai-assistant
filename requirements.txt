@@ -1,0 +1,23 @@
+# Core app
+streamlit>=1.32.0
+
+# OpenAI
+openai>=1.14.0
+
+# Word document export
+python-docx>=1.1.0
+
+# Language detection
+langdetect>=1.0.9
+
+# Numerical (used in Legal_QA.py BM25 math + embeddings)
+numpy>=1.26.0
+
+# PDF text extraction (contract upload analysis)
+pdfplumber>=0.11.0
+
+# Conversation PDF export
+fpdf2>=2.7.9
+
+# Token counting (rate limiting)
+tiktoken>=0.7.0
